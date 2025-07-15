@@ -8,7 +8,7 @@
     <div class="relative z-20">
       <h1 class="text-4xl md:text-5xl font-bold mb-4">Pich Vanrith</h1>
       <p class="text-xl md:text-3xl">
-        I'm <span class="text-blue-400 font-semibold" ref="typedEl"></span>
+        I'm <span class="text-red-500 font-semibold" ref="typedEl"></span>
       </p>
     </div>
   </section>
