@@ -21,7 +21,7 @@
           <div class="grid grid-cols-2 gap-4">
             <ul class="text-sm space-y-2">
               <li><strong>Birthday:</strong> 15 November 1981</li>
-              <li><strong>Website:</strong> https://pichportfolio.netlify.app/</li>
+              <li><strong>Website:</strong>pichportfolio.netlify.app/</li>
               <li><strong>Phone:</strong> +855 81 585 785</li>
               <li><strong>City:</strong> Phnom Penh, Cambodia</li>
             </ul>
