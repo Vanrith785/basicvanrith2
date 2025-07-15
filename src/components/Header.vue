@@ -1,7 +1,7 @@
 <template>
   <header class="bg-white shadow sticky top-0 z-50">
     <div class="container mx-auto px-4 flex items-center justify-between py-4">
-      <h1 class="text-xl font-bold">Alex Smith</h1>
+      <h1 class="text-xl font-bold">Pich Vanrith</h1>
       <button @click="toggleMenu" class="md:hidden text-2xl">
         <i class="bi bi-list"></i>
       </button>

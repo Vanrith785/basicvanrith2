@@ -6,7 +6,7 @@
   >
     <div class="absolute inset-0 bg-black/60 z-10"></div>
     <div class="relative z-20">
-      <h1 class="text-4xl md:text-5xl font-bold mb-4">Alex Smith</h1>
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">Pich Vanrith</h1>
       <p class="text-xl md:text-2xl">
         I'm <span class="text-blue-400 font-semibold" ref="typedEl"></span>
       </p>
