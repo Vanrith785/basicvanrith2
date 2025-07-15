@@ -21,14 +21,14 @@
           <div class="grid grid-cols-2 gap-4">
             <ul class="text-sm space-y-2">
               <li><strong>Birthday:</strong> 15 November 1981</li>
-              <li><strong>Website:</strong> www.example.com</li>
+              <li><strong>Website:</strong> https://pichportfolio.netlify.app/</li>
               <li><strong>Phone:</strong> +855 81 585 785</li>
               <li><strong>City:</strong> Phnom Penh, Cambodia</li>
             </ul>
             <ul class="text-sm space-y-2">
               <li><strong>Age:</strong> 43</li>
               <li><strong>Degree:</strong> Master</li>
-              <li><strong>Email:</strong> email@example.com</li>
+              <li><strong>Email:</strong> pichvanrith785.gmail.com</li>
               <li><strong>Freelance:</strong> Available</li>
             </ul>
           </div>
