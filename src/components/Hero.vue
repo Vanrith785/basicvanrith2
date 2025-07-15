@@ -1,7 +1,7 @@
 <template>
   <section
     id="hero"
-    class="relative h-screen flex items-center justify-center text-white text-center bg-cover bg-center"
+    class="relative h-screen flex items-center justify-left text-white text-center bg-cover bg-center"
     style="background-image: url('/images/hero-bg.jpg')"
   >
     <div class="absolute inset-0 bg-black/60 z-10"></div>
